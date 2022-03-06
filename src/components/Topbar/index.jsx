@@ -7,7 +7,7 @@ return(
   <div className="topbar">
     <div className="topbarWrapper">
       <div className="topLeft">
-        <div className="logo">admin</div>
+        <div className="logo">DashAD</div>
         </div>
       <div className="topRight">
         <div className="topbarIconContainer">
