@@ -10,17 +10,23 @@
     margin-left: 20px;
   }
   .widgetLgTable{
-    width: 100%;
+  
+    flex: 2;
     border-spacing: 10px;
-    
+  
     .widgetLgTr{
-      
+      display: flex;
+      justify-content: space-between; 
+      text-align: center;
+      margin-top: 10px;
       .widgetLgDate{
         font-weight: 300;
+        text-align: center;
         
       }
       .widgetLgAmount{
         font-weight: 300;
+        text-align: center;
       }
       .widgetLgStatus{
           .widgetLgButton{
@@ -43,8 +49,12 @@
       }
       .widgetLgUser{
         display: flex;
-        text-align: center;
+       text-align: center;
+        
         font-weight: 600;
+        .widgetLgName{
+          margin-top: 10px;
+        }
         .widgetLgImg{
           width: 40px;
           height: 40px;
@@ -52,7 +62,7 @@
           object-fit: cover;
           margin-right: 10px;
           .widgetLgName{
-            margin-top: 10px;
+            margin-top: 20px;
            }
         }
         

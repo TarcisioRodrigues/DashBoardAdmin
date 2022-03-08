@@ -50,3 +50,42 @@
     "Active User": 3390,
   },
 ];
+
+export const rows = [
+  { id: 1, username: 'John Snow', 
+  firstName: 'Jon',
+  avatar:"https://avatars.githubusercontent.com/u/66088034?v=4", 
+  email: "tarcisiorodrigues32@gmail.com",
+  status:'Active',
+  transaction:"$129.00"
+},
+{ id: 2, username: 'John Snow', 
+firstName: 'Jon',
+avatar:"https://avatars.githubusercontent.com/u/66088034?v=4", 
+email: "tarcisiorodrigues32@gmail.com",
+status:'Active',
+transaction:"$129.00"
+},
+{ id: 3, username: 'John Snow', 
+firstName: 'Jon',
+avatar:"https://avatars.githubusercontent.com/u/66088034?v=4", 
+email: "tarcisiorodrigues32@gmail.com",
+status:'Active',
+transaction:"$129.00"
+},
+{ id: 4, username: 'John Snow', 
+firstName: 'Jon',
+avatar:"https://avatars.githubusercontent.com/u/66088034?v=4", 
+email: "tarcisiorodrigues32@gmail.com",
+status:'Active',
+transaction:"$129.00"
+},
+{ id: 5, username: 'John Snow', 
+firstName: 'Jon',
+avatar:"https://avatars.githubusercontent.com/u/66088034?v=4", 
+email: "tarcisiorodrigues32@gmail.com",
+status:'Active',
+transaction:"$129.00"
+},
+
+];
