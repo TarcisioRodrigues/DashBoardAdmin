@@ -5,6 +5,7 @@ import './global/App.scss'
 import { Home } from "./Pages/Home";
 import {BrowserRouter,Route,Routes,Link} from 'react-router-dom'
 import { UserList } from "./Pages/UserList";
+import { User } from "./Pages/User";
 export const App=()=> {
   return (
 <BrowserRouter>
@@ -14,6 +15,8 @@ export const App=()=> {
    <Routes>
     <Route exact path="/" element={<Home/>}/>
     <Route exact path="/users" element={<UserList/>}/>
+    <Route exact path="/users/:userId" element={<User/>}/>
+
    </Routes>
     
    </div>
