@@ -15,10 +15,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Javascript]()
 - [ReacJS]()
 - [React-router-dom]()
+- Material Ui.()
+- Recharts.()
 
 ## 💻 Projeto
 
-Um Dashboard comum usado para treina css e componetização do reactJs
+Um Dashboard comum usado para treina css e componetização do reactJs,e ultilizando a Api Recharts para graficos 
 
 ## 🚀 Como executar
 
