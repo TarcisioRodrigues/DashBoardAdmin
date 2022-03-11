@@ -15,8 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Javascript]()
 - [ReacJS]()
 - [React-router-dom]()
-- Material Ui.()
-- Recharts.()
+- [Material Ui]()
+- [Recharts]()
 
 ## 💻 Projeto
 
